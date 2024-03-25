@@ -45,6 +45,7 @@
 
 ## Formador:
 ### Ofimática avanzada
+####     · Paquete Office
 [![microsoftexcel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=black)]()
 [![powerbi](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=black)]()
 [![microsoftword](https://img.shields.io/badge/word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white&labelColor=black)]()
@@ -53,7 +54,16 @@
 [![microsoftoutlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=black)]()
 [![microsoftonenote](https://img.shields.io/badge/onenote-7719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white&labelColor=black)]()
 
+####     · Herramientas Google
+[![googlesheets](https://img.shields.io/badge/Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=black)]()
+[![googledocs](https://img.shields.io/badge/docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=black)]()
+[![googleslides](https://img.shields.io/badge/slides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=white&labelColor=black)]()
+[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)]()
+[![googledrive](https://img.shields.io/badge/drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=black)]()
+[![googleforms](https://img.shields.io/badge/forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white&labelColor=black)]()
+
 ### Diseño
+[![obsstudio](https://img.shields.io/badge/obs-302E31?style=for-the-badge&logo=obsstudio&logoColor=white&labelColor=black)]()
 [![adobe](https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=black)]()
 [![adobephotoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=black)]()
 [![adobeillustrator](https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=black)]()
