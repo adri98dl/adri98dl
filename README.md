@@ -24,8 +24,11 @@
 
 ## Tecnologías:
 ### Programación
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black)]()
+<br/>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)]()
+[![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)]()
 
 ### Base de datos
   ####     · Relacionales
@@ -37,4 +40,23 @@
 
 ### Sistemas informáticos
 [![gnubash](https://img.shields.io/badge/gnubash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black)]()
+<br/>
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=black)]()
+
+## Formador:
+### Ofimática avanzada
+[![microsoftexcel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=black)]()
+[![powerbi](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=black)]()
+[![microsoftword](https://img.shields.io/badge/word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white&labelColor=black)]()
+[![microsoftpowerpoint](https://img.shields.io/badge/powerpoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white&labelColor=black)]()
+[![microsoftteams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white&labelColor=black)]()
+[![microsoftoutlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=black)]()
+[![microsoftonenote](https://img.shields.io/badge/onenote-7719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white&labelColor=black)]()
+
+### Diseño
+[![adobe](https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=black)]()
+[![adobephotoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=black)]()
+[![adobeillustrator](https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=black)]()
+[![adobedreamweaver](https://img.shields.io/badge/dreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=white&labelColor=black)]()
+[![adobelightroomclassic](https://img.shields.io/badge/lightroom-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=white&labelColor=black)]()
+[![adobepremierepro](https://img.shields.io/badge/premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=black)]()
