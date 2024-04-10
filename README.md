@@ -21,7 +21,7 @@
 ###
 <img src="https://raw.githubusercontent.com/impavloh/impavloh/output/snake.svg" alt="Snake de contribuiciones" />
 
-
+<!--
 ## Desarrollador:
 ### Programación
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=101010)]()
@@ -70,3 +70,74 @@
 [![adobedreamweaver](https://img.shields.io/badge/dreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=white&labelColor=black)]()
 [![adobelightroomclassic](https://img.shields.io/badge/lightroom-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=white&labelColor=black)]()
 [![adobepremierepro](https://img.shields.io/badge/premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=black)]()
+
+-->
+
+<h1 align="left"><Adri/></h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/adriandonosolopez/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/adri98dl/adri98dl/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h5 align="left">Programacion</h5>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h5 align="left">Base de Datos</h5>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+</div>
+
+###
+
+<h5 align="left">Sistemas</h5>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="powershell logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adri98dl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adri98dl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=adri98dl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=adri98dl&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adri98dl.adri98dl&"  />
+</div>
+
+###
